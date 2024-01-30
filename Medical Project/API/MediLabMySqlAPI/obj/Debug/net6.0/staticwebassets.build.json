@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r+TtVJRD+LB40PdIV2Tq5SeAAhjzjDo94upWp8/QzF0=",
+  "Source": "MediLabMySqlAPI",
+  "BasePath": "_content/MediLabMySqlAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

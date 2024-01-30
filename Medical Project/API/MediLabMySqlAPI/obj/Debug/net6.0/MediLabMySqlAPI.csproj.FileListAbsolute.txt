@@ -1,0 +1,168 @@
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\appsettings.json
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.exe
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.deps.json
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.runtimeconfig.json
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.pdb
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\MySql.Data.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\ZstdSharp.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.csproj.AssemblyReference.cache
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.AssemblyInfoInputs.cache
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.AssemblyInfo.cs
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.csproj.CoreCompileInputs.cache
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets\msbuild.MediLabMySqlAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.MediLabMySqlAPI.props
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MediLabMySqlAPI.props
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MediLabMySqlAPI.props
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\scopedcss\bundle\MediLabMySqlAPI.styles.css
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.csproj.CopyComplete
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\refint\MediLabMySqlAPI.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.pdb
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.genruntimeconfig.cache
+D:\Project\Medilab\API\MediLabMySqlAPI\obj\Debug\net6.0\ref\MediLabMySqlAPI.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Web.Http.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\Medilab\API\MediLabMySqlAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\appsettings.Development.json
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\appsettings.json
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.exe
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.deps.json
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.runtimeconfig.json
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\MediLabMySqlAPI.pdb
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Google.Protobuf.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Humanizer.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Web.Cors.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Web.Http.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Web.Http.Cors.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\MySql.Data.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.CodeDom.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.IO.Pipelines.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Text.Json.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\ZstdSharp.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.csproj.AssemblyReference.cache
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.GeneratedMSBuildEditorConfig.editorconfig
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.AssemblyInfoInputs.cache
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.AssemblyInfo.cs
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.csproj.CoreCompileInputs.cache
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.MvcApplicationPartsAssemblyInfo.cs
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.MvcApplicationPartsAssemblyInfo.cache
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets\msbuild.MediLabMySqlAPI.Microsoft.AspNetCore.StaticWebAssets.props
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.MediLabMySqlAPI.props
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MediLabMySqlAPI.props
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MediLabMySqlAPI.props
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets.pack.json
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets.build.json
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\staticwebassets.development.json
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\scopedcss\bundle\MediLabMySqlAPI.styles.css
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.csproj.CopyComplete
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\refint\MediLabMySqlAPI.dll
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.pdb
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\MediLabMySqlAPI.genruntimeconfig.cache
+B:\Medical Project\Medical Project\API\MediLabMySqlAPI\obj\Debug\net6.0\ref\MediLabMySqlAPI.dll
